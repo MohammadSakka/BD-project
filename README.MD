@@ -16,16 +16,14 @@ The project aims to achieve the following business goal:
 To get started with the project, follow the instructions in the main README file, which provides an overview of the repository's structure and contents. The README files in each folder offer more specific guidance on running scripts, executing queries, and utilizing the provided resources. 
 
 ### Folder Structure
-- `data`: The data folder contains the dataset files used in my project.
+- `data`: The data folder should contain the dataset files used in my project.// but it is large size then I put the link to data only
 - `hql`: The HQL folder includes Hive query scripts for data processing and analysis.
 - `models`: This folder houses the machine learning models implemented in our project.
 - `notebooks`: The notebooks folder contains Jupyter notebooks used for exploratory data analysis (EDA) and predictive data analytics (PDA).
-- `output`: The output folder stores the output files generated from the Hive queries.
 - `scripts`: This folder contains various scripts to assist with data processing, pre-processing, and training.
 - `sql`: The SQL folder includes the db.sql file, which contains SQL statements for creating the database and importing the dataset CSV files into it.
 - `.gitignore`: This file specifies which files and directories should be ignored by Git version control.
 - `main.sh`: The main shell script provides a convenient way to execute different stages of the project pipeline.
-- `presentation.pdf`: This file contains the slides for the video presentation to be made.
 - `report.pdf`: This file contains the full report of the project.
 - `requirements.txt`: This file lists the required Python packages and their versions for running the project.
 
